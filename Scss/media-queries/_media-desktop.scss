@@ -1,0 +1,55 @@
+@media screen and (min-width: 1024px) {
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    ul{
+        list-style-type: none;
+        display: flex;
+    }
+    
+    nav ul li a{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+        margin: 10px;
+    }
+    
+    div a{
+        color: rgb(124, 111, 111);
+        background-color: rgb(0, 0, 0);
+        text-decoration: solid;
+        font-weight: 800;
+        padding: 7px 15px;
+        border-radius: 5px;     
+    }
+    
+   
+    main{
+        color: rgb(124, 111, 111);
+        font-family: 'Courier New', Courier, monospace;
+        .stock-productos{
+            display: flex;
+            justify-content: space-around;   
+        .carrusel-tamaño1 {
+                width: 1240px;
+            }
+        .carrusel-tamaño2 {
+                width: 1240px;
+            }
+        .carrusel-tamaño3 {
+                width: 1240px;
+            }
+           
+        }  
+        .producto-1{
+            width: 10px;
+        }
+        .producto-{
+            width: 10px;
+        }
+    }
+
+}

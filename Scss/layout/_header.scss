@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img{
+    margin-left: 40px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 25px;
+}
+
+div a{
+    color: rgb(124, 111, 111);
+    background-color: rgb(0, 0, 0);
+    text-decoration: solid;
+    font-weight: 800;
+    padding: 7px 15px;
+    border-radius: 5px;
+    margin-left: 40px;
+
+}
