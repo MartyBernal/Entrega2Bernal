@@ -1,7 +1,7 @@
 body {
-    background-color: rgb(49, 36, 21);
+    background-color: rgb(175, 148, 118);
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 .parrafo-div{
@@ -15,9 +15,8 @@ body {
     animation-name: moverElemento;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-    animation-duration: 10s;
+    animation-duration: 10seg;
     animation-delay: 5seg;
   
 }
-
 

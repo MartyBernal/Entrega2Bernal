@@ -1,0 +1,11 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 30%;
+  grid-template-rows: 250px;
+  margin-top: 30px;
+  margin-bottom: 300px;
+} 
+.grid-item2 {
+  background-color: rgb(189, 189, 184);
+  border-radius: 5%;
+}
